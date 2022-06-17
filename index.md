@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/yjwjy/yjwjy.github.io/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 博客
-论文笔记(https://github.com/yjwjy/yjwjy.github.io/blob/main/blog.html)
+[论文笔记](https://github.com/yjwjy/yjwjy.github.io/blob/main/blog.html)
 
 ### 代码项目
-一些有趣的项目(https://github.com/yjwjy/yjwjy.github.io/blob/main/project.html)
+[一些有趣的项目](https://github.com/yjwjy/yjwjy.github.io/blob/main/project.html)
 
 ### Markdown
 
